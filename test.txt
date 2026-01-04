@@ -4,4 +4,6 @@ hello world2!!!
 
 hello world3!!! dev!!!
 
+这是 dev 分支的秘密方案
+
 这是 main 分支的最终决定
